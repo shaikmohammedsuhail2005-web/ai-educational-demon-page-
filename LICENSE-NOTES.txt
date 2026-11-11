@@ -1,0 +1,5 @@
+ORBIT is a fictional concept brand created for an assignment prototype.
+The pearl sphere and procedural graphite contour field are CSS/canvas artwork authored for this project.
+Fonts are loaded from Google Fonts at runtime.
+External tool and platform names are trademarks of their respective owners. No affiliation is implied.
+All programme prices, dates, learner statistics, availability, instructor details and testimonial content are demo placeholders.
